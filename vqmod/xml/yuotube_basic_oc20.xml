@@ -1,0 +1,104 @@
+<modification>
+    <id><![CDATA[Youtube videos Basic]]></id>
+	<version><![CDATA[2.0]]></version>
+	<opencart><![CDATA[2]]></opencart>
+	<vqmver><![CDATA[2.4]]></vqmver>
+	<author><![CDATA[Tobiknet Software http://tobiknet.com ]]></author>
+
+    <file name="catalog/controller/common/footer.php">	
+		<operation info="check and add columns" error="abort" >
+			<search position="replace"><![CDATA[
+			public function index() {
+			]]></search>
+			<add><![CDATA[
+			protected function dbCheck(){
+				$query = $this->db->query("SHOW COLUMNS FROM `".DB_PREFIX."product_description` LIKE 'youtube1'");
+				if(!$query->num_rows){
+					$this->db->query("ALTER TABLE `".DB_PREFIX."product_description` ADD `youtube1` TEXT NOT NULL");
+				}
+			}
+			public function index() {
+			$this->dbCheck();
+			]]>
+			</add>
+		</operation>
+	</file>
+	
+<!-- Product -->	
+	
+    <file name="admin/model/catalog/product.php">	
+        <operation info="get and set video into db" error="abort" >
+			<search position="replace"><![CDATA[
+) . "', meta_description = '" . $this->db->escape($value['meta_description']) . "', meta_keyword =
+			]]></search>
+            <add><![CDATA[
+) . "', youtube1 = '" . $this->db->escape($value['youtube1']) . "', meta_description = '" . $this->db->escape($value['meta_description']) . "', meta_keyword =
+            ]]></add>
+        </operation>
+        <operation info="" error="abort" >
+			<search position="after"><![CDATA[
+						'meta_description' => $result['meta_description'],
+			]]></search>
+            <add><![CDATA[				
+						'youtube1'		   	=> $result['youtube1'],
+            ]]></add>
+        </operation>			
+	</file>	
+
+    <file name="admin/view/template/catalog/product_form.tpl">	
+        <operation info="add video settings to product form" error="abort" >
+			<search position="before" offset="1"><![CDATA[
+				<?php echo $language['language_id']; ?>"><?php echo $entry_meta_title; ?>
+			]]></search>
+            <add><![CDATA[
+				<div class="form-group">
+					<label class="col-sm-2 control-label" for="input-youtube1">Youtube Video ID <sup>1st</sup><span data-toggle="tooltip" title="Last 11 characters. For example: <br>youtube.com/watch?v=<b><u>abcdefg1j2i</u></b>"></span><br><sub>Located at beginning of description</sub></label>
+					<div class="col-sm-10">
+					  <input type="text" name="product_description[<?php echo $language['language_id']; ?>][youtube1]" value="<?php echo isset($product_description[$language['language_id']]) ? $product_description[$language['language_id']]['youtube1'] : ''; ?>" placeholder="Youtube Video ID" id="input-youtube1" class="form-control" />
+					</div> 
+				</div>  
+            ]]></add>
+        </operation>
+	</file>	
+			
+    <file name="catalog/model/catalog/product.php">	
+        <operation info="" error="abort" >
+			<search position="before"><![CDATA[
+				'tag'              => $query->row['tag'],
+			]]></search>
+            <add><![CDATA[				
+				'youtube1'		   => $query->row['youtube1'],
+            ]]></add>
+        </operation>
+	</file>	
+	
+    <file name="catalog/controller/product/product.php">	
+        <operation info="" error="abort" >
+			<search position="before"><![CDATA[
+				$data['description'] = html_entity_decode($product_info['description'], ENT_QUOTES, 'UTF-8');
+			]]></search>
+            <add><![CDATA[				
+				$data['youtube1'] = $product_info['youtube1'];
+            ]]></add>
+        </operation>
+	</file>	
+			
+    <file name="catalog/view/theme/*/template/product/product.tpl">	
+        <operation info="add video on product page" error="log" >
+			<search position="replace"><![CDATA[
+				<?php echo $description; ?>
+			]]></search>
+            <add><![CDATA[				
+				<?php if (!empty($youtube1)){ echo "<embed style= \"position: relative; width: 55%; height:240px; margin: 20px 5px; \" src=\"http://www.youtube.com/v/$youtube1\">"; } ?>
+				<?php echo $description; ?>
+            ]]></add>
+        </operation>
+	</file>		
+	
+</modification>
+	
+			
+			
+			
+			
+			

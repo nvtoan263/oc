@@ -1,0 +1,250 @@
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-07 23:37:23 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-07 23:51:32 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-07 23:52:55 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 26
+2016-05-07 23:53:13 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 26
+2016-05-07 23:53:38 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 26
+2016-05-07 23:53:39 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 26
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-07 23:57:25 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-07 23:58:17 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 26
+2016-05-08 0:02:10 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 26
+2016-05-08 0:37:51 - PHP Warning:  require(/home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme): failed to open stream: No such file or directory in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 18
+2016-05-08 0:38:57 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 26
+2016-05-08 0:50:12 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 26
+2016-05-08 0:50:35 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 26
+2016-05-08 0:50:35 - PHP Notice:  Bác toàn đẹp trai quá in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 27
+2016-05-08 0:52:09 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 26
+2016-05-08 0:52:09 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 27
+2016-05-08 0:54:47 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 27
+2016-05-08 0:55:28 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 27
+2016-05-08 0:56:15 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 27
+2016-05-08 0:57:01 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 27
+2016-05-08 0:57:24 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 27
+2016-05-08 0:57:53 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 28
+2016-05-08 1:02:18 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 28
+2016-05-08 1:02:20 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 28
+2016-05-08 1:02:21 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 28
+2016-05-08 1:02:22 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 28
+2016-05-08 1:02:23 - PHP Notice:  Error: Could not load template /home/toannv/web/dogominghe.com/public_html/oc/catalog/view/theme/default/template/default/template/module/google_maps.tpl! in /home/toannv/web/dogominghe.com/public_html/oc/system/library/template/basic.php on line 28
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-08 1:06:48 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-08 1:07:33 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-08 1:07:51 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-08 1:08:12 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-08 1:08:27 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-09 10:15:58 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-09 10:16:20 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-09 15:28:49 - PHP Notice:  Undefined index: image in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 182
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-09 15:28:49 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 155
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: button_close in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 160
+2016-05-09 15:32:29 - PHP Notice:  Undefined index: image in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 182
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 187
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: placeholder_id in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 189
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 193
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: placeholder_alias in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 195
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 199
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: placeholder_address in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 201
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 211
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: placeholder_latitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 213
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 217
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: placeholder_longitude in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 219
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 223
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_balloon_width in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 225
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 240
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 242
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 248
+2016-05-09 15:32:29 - PHP Notice:  Undefined variable: entry_ballon_text in /home/toannv/web/dogominghe.com/public_html/oc/admin/view/template/google_maps/mapmodule.tpl on line 250
+2016-05-09 15:50:52 - PHP Notice:  Undefined index: youtube1 in /home/toannv/web/dogominghe.com/public_html/oc/vqmod/vqcache/vq2-catalog_model_catalog_product.php on line 19
+2016-05-09 15:50:52 - PHP Notice:  Undefined index: youtube1 in /home/toannv/web/dogominghe.com/public_html/oc/vqmod/vqcache/vq2-catalog_model_catalog_product.php on line 19
+2016-05-09 15:50:52 - PHP Notice:  Undefined index: youtube1 in /home/toannv/web/dogominghe.com/public_html/oc/vqmod/vqcache/vq2-catalog_model_catalog_product.php on line 19
+2016-05-09 15:50:52 - PHP Notice:  Undefined index: youtube1 in /home/toannv/web/dogominghe.com/public_html/oc/vqmod/vqcache/vq2-catalog_model_catalog_product.php on line 19
+2016-05-09 15:50:52 - PHP Notice:  Undefined index: youtube1 in /home/toannv/web/dogominghe.com/public_html/oc/vqmod/vqcache/vq2-catalog_model_catalog_product.php on line 19
+2016-05-09 15:50:52 - PHP Notice:  Undefined index: youtube1 in /home/toannv/web/dogominghe.com/public_html/oc/vqmod/vqcache/vq2-catalog_model_catalog_product.php on line 19
+2016-05-09 15:50:52 - PHP Notice:  Undefined index: youtube1 in /home/toannv/web/dogominghe.com/public_html/oc/vqmod/vqcache/vq2-catalog_model_catalog_product.php on line 19
+2016-05-09 15:50:52 - PHP Notice:  Undefined index: youtube1 in /home/toannv/web/dogominghe.com/public_html/oc/vqmod/vqcache/vq2-catalog_model_catalog_product.php on line 19
